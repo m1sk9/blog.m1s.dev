@@ -1,0 +1,19 @@
+lang: en
+
+home:
+  welcome: babyrite of knowledge
+
+menu_links:
+  - text: Home
+    href: /
+extra_head: |
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.10.0/build/styles/tokyo-night-light.css">
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: m1sk9's blog
+  description: babyrite of knowledge
+  title: "=title"
+  image: "=image"
+  twitter: "@username"
+  lang: en
