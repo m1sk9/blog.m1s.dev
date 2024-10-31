@@ -8,6 +8,7 @@ menu_links:
     href: /
 extra_head: |
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.10.0/build/styles/tokyo-night-light.css">
+  <meta name="fediverse:creator" content="@m1sk9@mstdn.maud.io">
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
